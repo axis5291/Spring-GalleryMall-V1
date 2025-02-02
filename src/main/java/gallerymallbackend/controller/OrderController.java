@@ -70,7 +70,6 @@ CartRepository cartRepository;
 
        return new ResponseEntity<>(HttpStatus.OK);
   }
-
 }
 
 // @RequestBody는 Spring Framework에서 사용되는 어노테이션으로, 
